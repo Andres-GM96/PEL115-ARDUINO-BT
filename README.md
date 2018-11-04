@@ -9,4 +9,5 @@ de cada uno de ellos en la aplicacion, utilizando la nomenclatura: H = '1', L = 
 Para la comunicacion se ha utilizado el modulo HC-06.
 
 > Configuracion para el HC-06: https://www.youtube.com/watch?v=M7DTEcdzDTI (Tech Krowd)
+# 
 > Un poco sobre el sistema binario: https://es.wikipedia.org/wiki/Sistema_binario
